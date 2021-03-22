@@ -987,7 +987,7 @@ section {
   transition: color var(--transition-dur-timing), border-color var(--transition-dur-timing);
 }
 
-.clients-list__link:hover, .clients-list__linkk:focus {
+.clients-list__link:hover, .clients-list__link:focus {
   color: var(--blue-text);
   border-color: var(--blue-text);
 }
